@@ -1,0 +1,9 @@
+analysis
+
+1)Highest Stock price
+2)lowest stock price
+3)average stock price
+4)Standard deviation(for future price)
+5)Highest change and lowest change
+6)daily volatility + average daily volatility
+7)
